@@ -1,0 +1,13 @@
+{
+  "name": "cloud-devops-capstone",
+  "version": "1.0.0",
+  "description": "CloudCart - Cloud DevOps Capstone Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
